@@ -71,7 +71,7 @@ nav {
 }
 
 main {
-    margin-top: -25px;
+    margin-top: -70px;
     padding: 0 25px 0 25px;
     display: grid;
     grid-template-rows: auto auto auto;
@@ -92,7 +92,7 @@ main {
 #searchBar{
     padding: 0 0px 0 44px;
     position: relative;
-    max-width: 484px;
+    max-width: 536px;
     width: 100%;
     margin: 0 auto 0 auto;
     border-radius: 22px;
@@ -137,7 +137,7 @@ main {
 
 #mc {
     padding: 10px 0 10px 0px;
-    right: 10px;
+    right: 14px;
     margin: 0;
     display: block;
     position: absolute;
@@ -198,9 +198,6 @@ footer a{
     margin-left: 12px;
     color: grey;
     font-size: 15px;
-}
-
-.f_n1{
 }
 
 .f_n2 {
